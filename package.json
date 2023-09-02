@@ -7,6 +7,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  
+  "type": "module",
+
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.1",

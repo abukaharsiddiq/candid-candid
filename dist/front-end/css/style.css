@@ -1444,7 +1444,7 @@ hr {
 
 @media (max-width: 575px) {
     .slider-area .hero-caption {
-        padding-top: 80px
+        padding-top: 110px
     }
 }
 
@@ -1545,10 +1545,10 @@ hr {
     }
 }
 
-.slider-area .hero-caption.hero-caption2 {
+/*.slider-area .hero-caption.hero-caption2 {
     padding-top: 120px;
     padding-top: 148px;
-}
+}*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slider-area .hero-caption.hero-caption2 {
@@ -1563,10 +1563,10 @@ hr {
 }
 
 @media (max-width: 575px) {
-    .slider-area .hero-caption.hero-caption2 {
+   /* .slider-area .hero-caption.hero-caption2 {
         padding-top: 60px;
         margin-top: 90px;
-    }
+    }*/
 }
 
 .slider-area .hero-caption.hero-caption2 h2 {
